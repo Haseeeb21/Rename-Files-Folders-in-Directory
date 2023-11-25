@@ -8,5 +8,5 @@ renames the files in the directory.
 
 
 ### User Input
-You can select what name to give the files and from where to start the numbering, both of these parameters are user defined.
+You can select what `name` to give the files and from where to start the `numbering`, both of these parameters are user defined.
 
