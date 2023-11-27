@@ -5,6 +5,8 @@ Renames the files in a specific folder. It also renames folder if present within
 
 ### Working
 
+Just run the code file by providing a folder / directoy.
+
 This code not only just renames the files in the folder / directory, if there are folders present in the selected directory then it renames the folder first and then 
 renames the files in the directory.
 
